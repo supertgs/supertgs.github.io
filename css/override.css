@@ -1,0 +1,11 @@
+    .footer {
+        padding: 1rem;
+        padding-bottom: 1px;
+    }
+    .w-75p {
+        width: 75%;
+        justify-content: flex-start;
+    }
+    .inline-box {
+        display: inline-block;
+    }
